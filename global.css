@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+}
+
+.layout {
+	display: flex;
+	min-height: 100vh;
+}
+
+#sidebar {
+	width: 220px;
+	background: #636363;
+	padding: 12px;
+	color: #ededed;
+}
+
+.content {
+	flex: 1;
+	background: #4b4b4b;
+	padding: 16px;
+	color: #f3f3f3
+}
+
+a {
+	color: #ff3535;
+}

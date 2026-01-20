@@ -25,3 +25,7 @@ body {
 a {
 	color: #ff3535;
 }
+
+#main_text {
+	font-size: large;
+}
